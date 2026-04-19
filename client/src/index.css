@@ -249,7 +249,7 @@ button.danger:hover {
   margin: 0 0 2rem 0;
   font-weight: 800;
   letter-spacing: -0.04em;
-  background: linear-gradient(to bottom right, #fff 30%, #475569);
+  background: linear-gradient(to bottom right, var(--text-main) 30%, var(--primary));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
